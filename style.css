@@ -1,0 +1,39 @@
+/* Type your code here */
+body{
+	font-family:Nunito Sans;
+	margin:50px;
+}
+img{
+	align-items: center;
+}
+.logo{
+	right: auto;
+	justify-content: flex-end;
+}
+table{
+	background-image:url("assets/background-image1.png")
+}
+.table-heading{
+	height:30px;
+	background-color: orangered;
+}
+.name{
+	font-weight: 10px;
+	color: blue;
+	padding: 5px;
+}
+
+
+/* change the font family and spacing as per your project font */
+.footer{
+    display:flex;
+    flex-direction: row;
+    align-content: flex-end;
+	position: relative;
+	top: 750px;
+	margin-left: 80px;
+	font-size: 18px;
+	font-family: Nunito Sans;
+    font-style:normal;
+    
+}
